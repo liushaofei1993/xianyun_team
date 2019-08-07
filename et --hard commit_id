@@ -1,0 +1,113 @@
+[33mcommit b2ac377877fb5e39a38a6da542d0db39cdb41099[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: chipooi <chipooi93@163.com>
+Date:   Mon Aug 5 11:42:55 2019 +0800
+
+    优化机票列表筛选功能(添加筛选选项可清空功能)
+
+[33mcommit 3089607f3ca652a22004374c8a5ce04340baf6a0[m
+Author: chipooi <chipooi93@163.com>
+Date:   Sun Aug 4 16:14:49 2019 +0800
+
+    完成订单页面的乘机人添加/删除以及保险部分内容的渲染
+
+[33mcommit 252d3f65c3704f200fc02a341cf1ff0ee2eea852[m
+Author: chipooi <chipooi93@163.com>
+Date:   Sat Aug 3 20:20:25 2019 +0800
+
+    完成侧边 历史查询栏的渲染和点击跳转
+
+[33mcommit 511bc043a7b62673e2b65f9f5865b88308b796c7[m
+Author: chipooi <chipooi93@163.com>
+Date:   Sat Aug 3 19:35:32 2019 +0800
+
+    完成机票选定功能
+
+[33mcommit d1e4a43b72cddec434402c1f63d8e04d00ae4461[m
+Author: chipooi <chipooi93@163.com>
+Date:   Sat Aug 3 18:47:02 2019 +0800
+
+    完成撤销筛选功能
+
+[33mcommit 789b2ef6b10d94f3563f86fa87bcb589a0cba81b[m
+Author: chipooi <chipooi93@163.com>
+Date:   Sat Aug 3 18:41:29 2019 +0800
+
+    修复多条件筛选bug
+
+[33mcommit f26cdfabe5faaf74eb5c36789d9be93a02c63c3d[m
+Author: chipooi <chipooi93@163.com>
+Date:   Sat Aug 3 18:31:31 2019 +0800
+
+    完成多条件筛选(先选择时间无法正确进行筛选,待完善)
+
+[33mcommit 0d5ffd881bc96ef27882e647eadf776f481f7327[m
+Author: chipooi <chipooi93@163.com>
+Date:   Sat Aug 3 17:09:07 2019 +0800
+
+    机票筛选功能(只能实现单项筛选,下一步实现多选)
+
+[33mcommit f14b965c954a8242fae3a20ef4809be5c3e1be05[m
+Author: chipooi <chipooi93@163.com>
+Date:   Sat Aug 3 11:59:42 2019 +0800
+
+    添加过滤条件组件,完成过滤条件组件传值和渲染
+
+[33mcommit 8688f05088ca1f7957899a320ace8c4c13ddd051[m
+Author: chipooi <chipooi93@163.com>
+Date:   Sat Aug 3 08:59:10 2019 +0800
+
+    完成机票页的数据获取,列表渲染以及分页功能
+
+[33mcommit 85ff3f1746a3e16c06a329d722efc112c128556d[m
+Author: chipooi <chipooi93@163.com>
+Date:   Fri Aug 2 17:03:00 2019 +0800
+
+    完成机票首页-特价机票部分数据显示
+
+[33mcommit f8a6434a675634327d3c812df633b6f3c098b543[m
+Author: chipooi <chipooi93@163.com>
+Date:   Fri Aug 2 16:44:10 2019 +0800
+
+    完成机票首页搜索功能和出发城市,到达城市互换功能
+
+[33mcommit 7fb9aa653b91661da21c5b494d17233f04f0c0c3[m
+Author: chipooi <chipooi93@163.com>
+Date:   Wed Jul 31 20:30:57 2019 +0800
+
+    把登录和注册的提交时间提取到store/user.js的actions下
+
+[33mcommit ea4710ddb5cdce14742310395b66b04864259ec6[m
+Author: chipooi <chipooi93@163.com>
+Date:   Wed Jul 31 19:20:40 2019 +0800
+
+    完成登录/注册功能
+
+[33mcommit 1a8dd176bbde30400c8a220cad3544a33847bb9c[m
+Author: chipooi <chipooi93@163.com>
+Date:   Tue Jul 30 21:29:55 2019 +0800
+
+    登录页面的登录表单部分完成
+
+[33mcommit 7ebde78a5fc769c0fb5328d3ad05783644a06ff2[m
+Author: chipooi <chipooi93@163.com>
+Date:   Tue Jul 30 18:20:45 2019 +0800
+
+    完成首页轮播图
+
+[33mcommit 5b1fab9bd56960c7c2c838748c31d03a9b9d8636[m
+Author: chipooi <chipooi93@163.com>
+Date:   Tue Jul 30 16:16:38 2019 +0800
+
+    2.底部公共部分完成
+
+[33mcommit 5cbf0b84d4e5f8e683a724410cb7063e2f6d657e[m
+Author: chipooi <chipooi93@163.com>
+Date:   Tue Jul 30 16:11:31 2019 +0800
+
+    1.完成头部公共部分
+
+[33mcommit 903e5619c24bb8d70d26ada4acaa3776ae3f6042[m
+Author: chipooi <chipooi93@163.com>
+Date:   Tue Jul 30 11:57:06 2019 +0800
+
+    闲云旅游初始化
